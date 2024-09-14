@@ -1,0 +1,15 @@
+C:\Users\Кирилл\source\repos\SCPconsolapp\bin\Release\SCPconsolapp.exe.config
+C:\Users\Кирилл\source\repos\SCPconsolapp\bin\Release\SCPconsolapp.exe
+C:\Users\Кирилл\source\repos\SCPconsolapp\bin\Release\SCPconsolapp.pdb
+C:\Users\Кирилл\source\repos\SCPconsolapp\obj\Release\SCPconsolapp.csproj.AssemblyReference.cache
+C:\Users\Кирилл\source\repos\SCPconsolapp\obj\Release\SCPconsolapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл\source\repos\SCPconsolapp\obj\Release\SCPconsolapp.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\SCPconsolapp\obj\Release\SCPconsolapp.exe
+C:\Users\Кирилл\source\repos\SCPconsolapp\obj\Release\SCPconsolapp.pdb
+C:\Users\Кирилл\source\repos\SCPconsolapp\bin\Release\sound\codeblack.wav
+C:\Users\Кирилл\source\repos\SCPconsolapp\bin\Release\sound\codeblackd.wav
+C:\Users\Кирилл\source\repos\SCPconsolapp\bin\Release\sound\codeblacke.wav
+C:\Users\Кирилл\source\repos\SCPconsolapp\bin\Release\sound\echo.wav
+C:\Users\Кирилл\source\repos\SCPconsolapp\bin\Release\sound\rick.wav
+C:\Users\Кирилл\source\repos\SCPconsolapp\bin\Release\sound\звук_легкого_содержания.wav
+C:\Users\Кирилл\source\repos\SCPconsolapp\bin\Release\sound\звук_тяжелого_содержания.wav

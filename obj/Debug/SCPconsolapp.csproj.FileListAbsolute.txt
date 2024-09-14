@@ -1,0 +1,8 @@
+C:\Users\Кирилл\source\repos\SCPconsolapp\bin\Debug\SCPconsolapp.exe.config
+C:\Users\Кирилл\source\repos\SCPconsolapp\bin\Debug\SCPconsolapp.exe
+C:\Users\Кирилл\source\repos\SCPconsolapp\bin\Debug\SCPconsolapp.pdb
+C:\Users\Кирилл\source\repos\SCPconsolapp\obj\Debug\SCPconsolapp.csproj.AssemblyReference.cache
+C:\Users\Кирилл\source\repos\SCPconsolapp\obj\Debug\SCPconsolapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл\source\repos\SCPconsolapp\obj\Debug\SCPconsolapp.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\SCPconsolapp\obj\Debug\SCPconsolapp.exe
+C:\Users\Кирилл\source\repos\SCPconsolapp\obj\Debug\SCPconsolapp.pdb
